@@ -46,19 +46,19 @@ program/Untitled.png
 Практка 1/sobel_test.jpg
 Практка 1/test.jpg
 Практка 1/threshold_test.jpg
-Практика 2/MNIST
-Практика 2/.Hide
-Практика 2/checkpoint_1.pt
-Практика 2/checkpoint0.pt
-Практика 2/checkpoint1.pt
-Практика 2/checkpoint2.pt
-Практика 2/checkpoint3.pt
-Практика 2/checkpoint4.pt
-Практика 2/model.dill
-Практика 2/model.pickle
-Практика 2/tensor.pt
-Практика 2/training_statistics.csv
-Практика 2/training_statistics.csv
+practice_2/MNIST
+practice_2/.Hide
+practice_2/checkpoint_1.pt
+practice_2/checkpoint0.pt
+practice_2/checkpoint1.pt
+practice_2/checkpoint2.pt
+practice_2/checkpoint3.pt
+practice_2/checkpoint4.pt
+practice_2/model.dill
+practice_2/model.pickle
+practice_2/tensor.pt
+practice_2/training_statistics.csv
+practice_2/training_statistics.csv
 Практика 3/dataset/cifar-10-python.tar.gz
 Практика 3/dataset/cifar-10-batches-py/batches.meta
 Практика 3/dataset/cifar-10-batches-py/data_batch_1
@@ -68,3 +68,9 @@ program/Untitled.png
 Практика 3/dataset/cifar-10-batches-py/data_batch_5
 Практика 3/dataset/cifar-10-batches-py/readme.html
 Практика 3/dataset/cifar-10-batches-py/test_batch
+Практика 3/checkpoint0.pt
+Практика 3/checkpoint1.pt
+Практика 3/checkpoint2.pt
+Практика 3/checkpoint3.pt
+Практика 3/checkpoint4.pt
+Практика 3/checkpoint5.pt
